@@ -1,0 +1,15 @@
+.configs {
+    padding-top: 75px;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+.config {
+    display: inline-block;
+    background-color: rgba(255,255,255,0.11);
+    border-radius: 15px;
+    width: 225px;
+    text-align: center;
+    margin-bottom: 4px;
+
+}
